@@ -187,9 +187,6 @@ The application is fully responsive and works on:
 - Use PM2 or similar process manager
 - Configure reverse proxy (nginx) if needed
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
